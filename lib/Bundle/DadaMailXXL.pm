@@ -18,7 +18,7 @@ or similar CPAN module installer method
 
 =head1 Description
 
-C<Bundle::DadaMailXXL> is a CPAN Bundle of I<required> CPAN modules used by Dada Mail. It also lists C<Bundle::DadaMail> which is the Budle that holds optional CPAN modules used by Dada Mail. 
+C<Bundle::DadaMailXXL> is a CPAN Bundle of I<required> CPAN modules used by Dada Mail. It also lists C<Bundle::DadaMail> which is the Bundle that holds optional CPAN modules used by Dada Mail. 
 
 Dada Mail is a self-hosted mailing list manager and the distribution does include the CPAN modules that it requires. This bundle keeps track of those modules, as well as gives you an easy way to install them via CPAN into your Perl environment. 
 
@@ -191,3 +191,9 @@ Crypt::Rijndael
 HTML::Tiny
 
 Authen::SASL
+
+YAML::Tiny
+
+Text::FrontMatter::YAML
+
+HTML::Menu::Select
