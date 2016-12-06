@@ -1,6 +1,6 @@
 package Bundle::DadaMailXXL;
 
-$VERSION = '0.0.1';
+$VERSION = '0.0.2';
 
 1;
 
@@ -65,8 +65,6 @@ Email::Valid
 Exporter::Lite
 
 File::Spec
-
-GD::SecurityImage;
 
 Data::Google::Visualization::DataTable
 
