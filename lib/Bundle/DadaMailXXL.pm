@@ -1,6 +1,6 @@
 package Bundle::DadaMailXXL;
 
-$VERSION = '0.0.2';
+$VERSION = '0.0.3';
 
 1;
 
@@ -35,6 +35,8 @@ Bundle::DadaMail
 Try::Tiny
 
 CGI
+
+CGI::Application
 
 CGI::Session
 
@@ -166,7 +168,11 @@ Time::Local
 
 Time::Piece
 
+Time::Piece::MySQL
+
 Try::Tiny
+
+URI
 
 URI::Escape
 
