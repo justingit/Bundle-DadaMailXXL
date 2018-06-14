@@ -60,6 +60,8 @@ Digest::Perl::MD5
 
 Email::Address
 
+Email::Address::XS
+
 Email::Find
 
 Email::Valid
@@ -93,8 +95,6 @@ IO::Stringy
 Bundle::libnet
 
 Mail::DeliveryStatus::BounceParser 
-
-Email::Address
 
 Mail::Address
 
