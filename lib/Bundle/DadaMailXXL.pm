@@ -148,7 +148,9 @@ MIME::Tools
 
 Net::SMTP
 
-Net::SMTP_auth 
+Net::SMTP_auth
+
+Number::Bytes::Human
 
 Parse::RecDescent
 
@@ -159,6 +161,8 @@ PHP::Session
 Scalar-List-Utils
 
 Text::CSV
+
+Text::Markdown
 
 Text::Tabs
 
