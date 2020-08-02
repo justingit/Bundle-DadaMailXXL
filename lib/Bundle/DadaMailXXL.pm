@@ -70,6 +70,8 @@ Exporter::Lite
 
 File::Spec
 
+File::Slurper
+
 Data::Google::Visualization::DataTable
 
 HTML::Entities::Numbered
@@ -140,10 +142,6 @@ MIME::Type
 
 MIME::Types
 
-MIME::Lite
-
-MIME::Lite::HTML
-
 MIME::Tools
 
 Net::SMTP
@@ -171,8 +169,6 @@ Text::Wrap
 Time::Local
 
 Time::Piece
-
-Time::Piece::MySQL
 
 Try::Tiny
 
