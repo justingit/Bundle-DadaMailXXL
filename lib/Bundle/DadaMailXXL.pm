@@ -152,7 +152,7 @@ Number::Bytes::Human
 
 Parse::RecDescent
 
-id/D/DC/DCONWAY/Text-Balanced-1.98.tar.gz
+Text::Balanced
 
 PHP::Session
 
