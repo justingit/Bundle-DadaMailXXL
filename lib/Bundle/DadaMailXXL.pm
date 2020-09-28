@@ -52,8 +52,6 @@ Class::Accessor::Chained::Fast
 
 Data::Page
 
-Data::PageSet
-
 Date::Format
 
 Digest 
@@ -160,7 +158,9 @@ Text::Balanced
 
 PHP::Session
 
-Scalar-List-Utils
+Scalar::Util
+
+List::Util 
 
 Text::CSV
 
