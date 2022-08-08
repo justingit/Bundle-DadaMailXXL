@@ -16,3 +16,5 @@ pod2htm*.tmp
 pm_to_blib
 Bundle-DadaMailXXL-*
 Bundle-DadaMailXXL-*.tar.gz
+.DS_Store
+lib/.DS_Store
