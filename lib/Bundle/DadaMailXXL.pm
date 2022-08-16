@@ -1,6 +1,6 @@
 package Bundle::DadaMailXXL;
 
-$VERSION = '0.0.7';
+$VERSION = '0.0.8';
 
 1;
 
@@ -24,7 +24,7 @@ C<Bundle::DadaMailXXL> will pull modules listed in C<Bundle::DadaMail::IncludedI
 
 =head1 See Also
 
-L<http://dadamailproject.com>
+L<https://dadamailproject.com>
 
 L<https://github.com/justingit/Bundle-DadaMailXXL>
 
