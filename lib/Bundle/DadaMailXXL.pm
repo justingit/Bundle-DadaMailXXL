@@ -31,7 +31,7 @@ L<https://github.com/justingit/Bundle-DadaMailXXL>
 
 =head1 CONTENTS
 
-AWS:Signature4 - used for Amazon SES 
+AWS::Signature4 - used for Amazon SES 
 
 CSS::Inliner - Used in inlining CSS in HTML email messages. Important for making sure HTML messages look correctly in most all readers.
 
